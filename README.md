@@ -20,7 +20,7 @@ DrawBot and Python documentation, as well as DrawBot script collections for you 
 
 ## Schedule
 
-All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220707T223000&p1=179). I will try to show up 10–15 minutes early to answer questions or just say hi.
+All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220707T223000&p1=179). I will be available 10–15 minutes before class to answer questions or just say hi...just message me and I’ll pop in.
 
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
@@ -37,7 +37,7 @@ All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/wo
 
 A record of the scripts that we write together in class.
 
-* ~~[Session 1 Code](/session-1/code)~~
+* [Session 1 Code](/session-1/code)
 * ~~[Session 2 Code](/session-2/code)~~
 * ~~[Session 3 Code](/session-3/code)~~
 * ~~[Session 4 Code](/session-4/code)~~
@@ -56,7 +56,7 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 
 All class sessions are recorded. Links will be added here as the class progresses:
 
-* ~~[Session 1 Recording](#)~~
+* [Session 1 Recording](https://cooper.zoom.us/rec/share/Qy-CFjzCEwE6nFMGcxu3-_hF8IAW7aaPoofPRJlWJ5R2f3kYeU0v-9VA2CrwBb2L.ItwBu4KLh_bJH_zd) passcode `&8X9IgnJ`
 * ~~[Session 2 Recording](3)~~
 * ~~[Session 3 Recording](#)~~
 * ~~[Session 4 Recording](#)~~
