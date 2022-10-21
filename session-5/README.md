@@ -2,7 +2,7 @@
 
 * [**Session 5 code**](/session-5/code)
 * [**Session 5 challenges**](/session-5/challenges)
-* [**Session 5 recording**](https://cooper.zoom.us/rec/share/M6fNd9O8Znc8cwPyr08b4MCPfCGt3TNLlhmgeyvK-zQekSA3o81TCFidERoezzEW.1Fc5Ng9Kir0cFLVc) passcode: `9CjTVh#b`
+* [**Session 5 recording**](#)
 
 
 ## Rough outline
