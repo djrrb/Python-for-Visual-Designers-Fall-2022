@@ -38,7 +38,7 @@ All class sessions run from 6:30pm–8:30pm [EDT](https://www.timeanddate.com/wo
 A record of the scripts that we write together in class.
 
 * [Session 1 Code](/session-1/code)
-* ~~[Session 2 Code](/session-2/code)~~
+* [Session 2 Code](/session-2/code)
 * ~~[Session 3 Code](/session-3/code)~~
 * ~~[Session 4 Code](/session-4/code)~~
 * ~~[Session 5 Code](/session-5/code)~~
@@ -57,7 +57,7 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 All class sessions are recorded. Links will be added here as the class progresses:
 
 * [Session 1 Recording](https://cooper.zoom.us/rec/share/Qy-CFjzCEwE6nFMGcxu3-_hF8IAW7aaPoofPRJlWJ5R2f3kYeU0v-9VA2CrwBb2L.ItwBu4KLh_bJH_zd) passcode `&8X9IgnJ`
-* ~~[Session 2 Recording](3)~~
+* [Session 2 Recording](https://cooper.zoom.us/rec/share/cnRDO2Oq61Y0IRpyApiVU0j-2GMp97YdhT9k0vTkIMkDh6NUH4DDtSa7r3Vr6CqF.juufgeiO980i6xlu) passcode `HyL6J$jb`
 * ~~[Session 3 Recording](#)~~
 * ~~[Session 4 Recording](#)~~
 * ~~[Session 5 Recording](#)~~
