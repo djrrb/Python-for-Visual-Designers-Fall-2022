@@ -39,7 +39,7 @@ A record of the scripts that we write together in class.
 
 * [Session 1 Code](/session-1/code)
 * [Session 2 Code](/session-2/code)
-* ~~[Session 3 Code](/session-3/code)~~
+* [Session 3 Code](/session-3/code)
 * ~~[Session 4 Code](/session-4/code)~~
 * ~~[Session 5 Code](/session-5/code)~~
 
@@ -58,7 +58,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 
 * [Session 1 Recording](https://cooper.zoom.us/rec/share/Qy-CFjzCEwE6nFMGcxu3-_hF8IAW7aaPoofPRJlWJ5R2f3kYeU0v-9VA2CrwBb2L.ItwBu4KLh_bJH_zd) passcode `&8X9IgnJ`
 * [Session 2 Recording](https://cooper.zoom.us/rec/share/cnRDO2Oq61Y0IRpyApiVU0j-2GMp97YdhT9k0vTkIMkDh6NUH4DDtSa7r3Vr6CqF.juufgeiO980i6xlu) passcode `HyL6J$jb`
-* ~~[Session 3 Recording](#)~~
+* [Session 3 Recording](https://cooper.zoom.us/rec/share/l3bTyPgWuRZr9Vyctuax_BJrbWCh9GeIF9pk4jkHdu4_bibZZgEiSMNL1HF8CekF.qrB2pxz0BXUdmuV) passcode: `3+?.jdy?`
 * ~~[Session 4 Recording](#)~~
 * ~~[Session 5 Recording](#)~~
 * ~~[Follow-up Session Recording](#)~~
