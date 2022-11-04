@@ -19,13 +19,3 @@ for myRowNumber in range(myRowCount):
         myYOffset = (myCellHeight - myShapeSize)/2
         
         oval(myX+myXOffset, myY+myYOffset, myShapeSize, myShapeSize)
-
-# myX, myY = (200, 180)
-
-# 
-
-# image(myImage, (0, 0))
-
-# 
-# oval(myX, myY, 500, 500)
-
