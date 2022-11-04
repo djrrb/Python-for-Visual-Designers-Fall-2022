@@ -19,3 +19,5 @@ for myRowNumber in range(myRowCount):
         myYOffset = (myCellHeight - myShapeSize)/2
         
         oval(myX+myXOffset, myY+myYOffset, myShapeSize, myShapeSize)
+
+saveImage('myDots.pdf')
