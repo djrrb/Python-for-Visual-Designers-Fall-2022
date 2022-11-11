@@ -32,7 +32,7 @@ Try your hand at some name badges! I’ve included a CSV you can use, or you can
 
 ## Random Word Generator
 
-Make your own Lorem Ipsum generator using `FormattedString()`. You can use words from the Mac OS internal word list, which you can find at ``/usr/share/dict/words` and the `shuffle()` function accessible via `from random import shuffle`.
+Make your own Lorem Ipsum generator using `FormattedString()`. You can use words from the Mac OS internal word list, which you can find at `/usr/share/dict/words` and the `shuffle()` function accessible via `from random import shuffle`.
 
 ![random word generator](randomWordGenerator.png)
 
