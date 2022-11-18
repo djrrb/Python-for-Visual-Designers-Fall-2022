@@ -1,0 +1,1 @@
+print('hello.gif'.endswith('.gif'))
