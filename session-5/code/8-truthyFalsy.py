@@ -2,6 +2,12 @@
 # https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/
 myNumber = 1
 if myNumber:
-    print('This is true.')
+    print(myNumber, 'is true.')
 else:
-    print('This is false.')
+    print(myNumber, 'is false.')
+    
+myNumber = 0
+if myNumber:
+    print(myNumber, 'is true.')
+else:
+    print(myNumber, 'is false.')
